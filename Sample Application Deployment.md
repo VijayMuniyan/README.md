@@ -16,11 +16,11 @@ Step 2: Create an index.html file with this sample content:
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Sample Static Site</title>
+  <title>Lemonpay</title>
 </head>
 <body>
-  <h1>Hello from GitHub Pages!</h1>
-  <p>This is a static HTML page deployed via GitHub Pages.</p>
+  <h1>Welcome to Lemonpay!</h1>
+  <p>We are one of the leading fintech companies in India, known for our innovative and secure payment solutions.</p>
 </body>
 </html>
 
@@ -32,6 +32,6 @@ Step 3: Enable GitHub Pages
 5.Click Save.
 6.GitHub will build and publish your site. The URL will be shown on this page, typically:
 
-https://<USERNAME>.github.io/<REPO>/
+https://vijaymuniyan.github.io/my-static-site/
 
 
