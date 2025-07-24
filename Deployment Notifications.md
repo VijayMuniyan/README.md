@@ -53,3 +53,7 @@ The deployment for **${PROJECT_NAME}** failed. Please review the logs below:
 - Build Number: ${BUILD_NUMBER}
 - Failure Details: ${BUILD_LOG}
 
+For more information, visit the build at ${BUILD_URL}.
+
+Regards,
+DEVOPS Team
